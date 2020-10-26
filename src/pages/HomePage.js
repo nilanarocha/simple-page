@@ -7,7 +7,6 @@ function HomePage() {
   return (
     <Fragment>
       <MenuBar />
-      <h1>Nilana</h1>
       <Footer />
     </Fragment>
   );
